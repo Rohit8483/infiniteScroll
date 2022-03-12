@@ -1,0 +1,9 @@
+#main{
+    height: 500px;
+    width: 450px;
+    border: 10px solid red;
+    text-align: center;
+    margin: auto;
+    overflow: auto;
+    margin-top: 25px;
+}
